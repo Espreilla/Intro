@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Espreilla, my full name is Espreilla Harin Widhastika
 - 👀 I’m interested in Data Analytics, Data Science and Actuarial Science
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R, Python, and SQL
 - 📫 How to reach me: https://www.linkedin.com/in/espreilla/ (LinkedIn) & https://www.instagram.com/e.harin.2/ (Instagram)
 
 <!---
